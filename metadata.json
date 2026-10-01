@@ -1,0 +1,6 @@
+{
+  "name": "ArqueoIA 3.0",
+  "description": "Asistente inteligente para el análisis arqueológico, registro de sitios, catalogación de fichas materiales, geografía sagrada y estrategias del Horizonte Tardío con rigor científico.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
